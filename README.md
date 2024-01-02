@@ -10,9 +10,10 @@
 - Đọc mang tính chất tham khảo hiểu bảng chất chưa cần phân tích chuyên sâu 🚩
   - **Đọc 1.2 mục Yêu cầu đối với sinh viên**
 
+*Chỉnh sửa REPORT trực tiếp trên file này 
+ - https://sthuflitedu-my.sharepoint.com/:w:/g/personal/22dh110227_st_huflit_edu_vn/Ec1jkuwHbLZFi_QKrambyqoBfxMCWrQopoRO3Tm1mBE5pA?e=tsBnkg
 
-<<<Deadline 26.1.2024>>>
-Học kĩ các phần Sequence diagram và state chart diagram trên lớp🚩
+- Học kĩ các phần Sequence diagram và state chart diagram trên lớp🚩
 - Tasks hiện tại
 - -Get user Requirements(case số 14) 1️⃣
 - -System Requirements
