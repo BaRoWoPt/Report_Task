@@ -11,13 +11,23 @@
   - **Đọc 1.2 mục Yêu cầu đối với sinh viên**
 
 
-
-
-
 <<<Deadline 26.1.2024>>>
 Học kĩ các phần Sequence diagram và state chart diagram trên lớp🚩
-   - 1️⃣ BẢO
+Tasks hiện tại
+--Get user Requirements(case số 14) 1️⃣
+--System Requirements
+=> Xác định Actors2️⃣
+=> Xác định chức năng của từng Actors3️⃣
+===> Vẽ được use case4️⃣
+===> Đặc tả use case5️⃣
+-- Về nhà làm task theo phân công sau
+Task 1️⃣: Deadline 3/1/2024 trước 23h59
+Task 2️⃣: Deadline 4/1/2024 trước 23h59
+Task 3️⃣: Deadline 4/1/2024 trước 23h59
+Task 4️⃣.5️⃣: Deadline 8/1/2024 trước 17h00
+🏋️🏋️🏋️🏋️🏋️🏋️
+   - 1️⃣ BẢO 
    - 2️⃣ LINH
-   - 3️⃣ TUẤN
+   - 3️⃣ TUẤN 
    - 4️⃣ HỮU
-   - 5️⃣ THƯƠNG
+   - 5️⃣ THƯƠNG 
