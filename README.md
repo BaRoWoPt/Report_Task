@@ -13,9 +13,9 @@
 
 <<<Deadline 26.1.2024>>>
 Học kĩ các phần Sequence diagram và state chart diagram trên lớp🚩
-Tasks hiện tại
--Get user Requirements(case số 14) 1️⃣
--System Requirements
+- Tasks hiện tại
+- -Get user Requirements(case số 14) 1️⃣
+- -System Requirements
 - => Xác định Actors2️⃣
 - => Xác định chức năng của từng Actors3️⃣
 - ===> Vẽ được use case4️⃣
