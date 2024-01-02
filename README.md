@@ -25,7 +25,8 @@
 - Task 1️⃣: Deadline 3/1/2024 trước 23h59
 - Task 2️⃣: Deadline 4/1/2024 trước 23h59
 - Task 3️⃣: Deadline 4/1/2024 trước 23h59
-- Task 4️⃣.5️⃣: Deadline 8/1/2024 trước 17h00
+- Task 4️⃣.5️⃣: Deadline 6/1/2024 trước 23h59
+- Có một buổi meeting vào ngày 7/1/2024 lúc 20h-23h để check bài tập
 - 🏋️🏋️🏋️🏋️🏋️🏋️
    - 1️⃣ BẢO 
    - 2️⃣ LINH
