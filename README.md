@@ -1,6 +1,7 @@
 **BẢNG PHÂN CÔNG ĐỒ ÁN PHÂN TÍCH VÀ THIẾT KẾ PHẦN MỀM**
 - **YÊU CẦU KHI COMMIT CÔNG VIỆC THỰC HIỆN CỦA CÁC THÀNH VIÊN**
 - Commit theo form cố định sau: TEN_NGAYGIO ví dụ BAO_17/11
+- Các thành viên up task của mình lên đúng nhánh của mình không up lên main 
 - CÁC YÊU CẦU TRƯỚC KHI VÀO ĐỒ ÁN
 * Đọc báo cáo mẫu sau: https://www.studocu.com/vn/document/truong-dai-hoc-su-pham-ky-thuat-thanh-pho-ho-chi-minh/phuong-phap-nghien-cuu/bao-cao-do-an-phan-mem-ban-may-tinh/19219976
 * Đọc yêu cầu của giảng viên trong slide bài giảng https://courses.huflit.edu.vn/course/view.php?id=23401
