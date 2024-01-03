@@ -13,7 +13,8 @@
 
 *Chỉnh sửa REPORT trực tiếp trên file này 
  - https://sthuflitedu-my.sharepoint.com/:w:/g/personal/22dh110227_st_huflit_edu_vn/Ec1jkuwHbLZFi_QKrambyqoBfxMCWrQopoRO3Tm1mBE5pA?e=tsBnkg
-
+   
+*Sử dụng draw.io (https://app.diagrams.net/) để vẽ USECASE liên kết tài khoản git với web chọn nhánh của mình để lưu sơ đồ về lâu dài 
 - Học kĩ các phần Sequence diagram và state chart diagram trên lớp🚩
 - Tasks hiện tại
 - -Get user Requirements(case số 14) 1️⃣
