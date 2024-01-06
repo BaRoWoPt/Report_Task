@@ -29,9 +29,10 @@
 - Task 3️⃣: Deadline 4/1/2024 trước 23h59
 - Task 4️⃣.5️⃣: Deadline 6/1/2024 trước 23h59
 - Có một buổi meeting vào ngày 7/1/2024 lúc 20h-23h để check bài tập
+- Nộp bài đặc tả uses case vào ngày 7/1/2024 trước 22h 
 - 🏋️🏋️🏋️🏋️🏋️🏋️
-   - 1️⃣ BẢO 
-   - 2️⃣ LINH
-   - 3️⃣ TUẤN 
-   - 4️⃣ HỮU
-   - 5️⃣ THƯƠNG 
+   - 1️⃣ BẢO :tiếp nhận đơn hàng
+   - 2️⃣ LINH::Người bán với kho
+   - 3️⃣ TUẤN :giao hàng
+   - 4️⃣ HỮU:người mua
+   - 5️⃣ THƯƠNG :Hệ thống quản lí chính:
