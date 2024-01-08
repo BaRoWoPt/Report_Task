@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T04:02:11.399Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QJo5z6UhSq-tPxNrq3q9" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T04:04:19.365Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="06jPujd-e1HsJIpnEiJf" version="22.1.17" type="github">
   <diagram name="Trang-1" id="czBNifSg_UL3HufGJo0e">
-    <mxGraphModel dx="2788" dy="2412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2237" dy="2318" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qyIsjRJEwPfcaKc1B3xI-31" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="864" y="1453" width="1134" height="1134" as="geometry" />
+          <mxGeometry x="864" y="1453" width="1066" height="1066" as="geometry" />
         </mxCell>
         <mxCell id="qyIsjRJEwPfcaKc1B3xI-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-197" y="938" width="716" height="716" as="geometry" />
@@ -472,7 +472,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vWeW2EFMphz9cvA4iSRf-7" value="Cập nhập đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1869" y="2108" width="120" height="80" as="geometry" />
+          <mxGeometry x="1771" y="2105" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vWeW2EFMphz9cvA4iSRf-9" value="extend&lt;br&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PxrPdNPvLXpWMJt-VQhZ-44" target="PxrPdNPvLXpWMJt-VQhZ-31" edge="1">
           <mxGeometry x="0.104" y="-16" width="160" relative="1" as="geometry">
